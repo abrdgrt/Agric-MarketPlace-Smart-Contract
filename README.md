@@ -1,4 +1,4 @@
-near-blank-project
+eFama MarketPlace Near Smart Contract
 ==================
 
 This app was initialized with [create-near-app]
